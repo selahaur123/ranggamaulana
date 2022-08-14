@@ -1,0 +1,24 @@
+Sytem Commands
+1. logoff (Digunakan untuk pergantian penggunaan komputer dengan menutup program)
+2. shutdown (Mematikan komputer secara keseluruhan)
+3. cls (Untuk menghapus semua teks di CMD)
+4. color (Untuk mengganti warna pada CMD)
+5. copy (Untuk menyalin sebuah file ke lokasi yang berbeda)
+6. date (Untuk melihat tanggal atau menggantinya)
+7. dir (Untuk melihat daftar file dan sub-direktori yang ada di dalam sebuah direktori)
+8. exit (Untuk keluar dari Command Prompt atau menutup proses batch script yang sedang berjalan)
+9. ipconfig (Untuk menampilkan informasi tentang pengaturan jaringan yang ditentukan untuk komputer)
+10. rmdir (Untuk menghapus direktori yang kosong)
+11. tree (Untuk memperlihatkan struktur folder dan file-file yang ada pada suatu drive)
+12. time (Untuk memlihat waktu)
+13. ping (Untuk mengecek komunikasi antar komputer dalam sebuah jaringan menempuh protokol TCP/IP )
+14. cmdkey (untuk membuat, menghapus, atau melihat username dan password yang digunakan untuk login ke komputer)
+15. del (untuk menghapus file dengan perintah del)
+16. restart (Untuk menjalankan ulang sistem)
+17. convert (Digunakan ketika Anda ingin mengubah partisi berjenis FAT menjadi NTFS)
+18. deltree (Jika file yang dihapus dengan perintah del, delete, dan erase masuk ke dalam Recycle Bin, lain halnya dengan perintah deltree
+    Perintah ini berfungsi untuk menghapus file secara permanen)
+19. add (Untuk membuat partisi baru yang serupa dengan sebuah partisi lain yang sudah ada di komputer)
+20. assign (Jika Anda menggunakan add disk, partisi baru yang dibuat belum memiliki huruf.
+    Sub-perintah assign digunakan untuk menentukan hurufnya.
+    Namun, jangan lupa untuk menggunakan perintah select partition terlebih dahulu untuk memilih partisi yang ingin Anda beri huruf)
